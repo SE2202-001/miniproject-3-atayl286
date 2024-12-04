@@ -7,6 +7,10 @@
     font-weight: bold;
 }
 
+tr:nth-child(even) { 
+    background-color: rgb(225, 225, 225); 
+}
+
 h1 {
     font-size: 3em;
     font-weight: bold;
