@@ -1,0 +1,58 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#thead {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    display: inline;
+    padding-left: 1em;
+}
+
+#tbody {
+    font-size: 0.75em;
+    font-weight: normal;
+}
+
+#options {
+    text-align: center;
+    padding: 1em;
+    font-size: 1em;
+}
+
+#top {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+#levels, #types, #skills, #sort {
+    border-right: 1px solid black;
+    padding: 0.75em;
+}
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+th, td {
+    padding: 0.4em;
+}
+
+tr {
+    border-bottom: 1px solid black;
+}
